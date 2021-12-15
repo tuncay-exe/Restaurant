@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\tunca\source\repos\Restaurant\Restaurant\Source.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tunca\source\repos\Restaurant\Restaurant\Source.cpp(28,14): error C3646: 'printVisual': unknown override specifier
+C:\Users\tunca\source\repos\Restaurant\Restaurant\Source.cpp(28,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\tunca\source\repos\Restaurant\Restaurant\Source.cpp(33,3): error C2065: 'printVisual': undeclared identifier
+C:\Users\tunca\source\repos\Restaurant\Restaurant\Source.cpp(34,3): error C2065: 'printVisual': undeclared identifier
+C:\Users\tunca\source\repos\Restaurant\Restaurant\Source.cpp(82,3): error C2065: 'printVisual': undeclared identifier
+C:\Users\tunca\source\repos\Restaurant\Restaurant\Source.cpp(83,3): error C2065: 'printVisual': undeclared identifier
+C:\Users\tunca\source\repos\Restaurant\Restaurant\Source.cpp(268): fatal error C1075: '{': no matching token found
